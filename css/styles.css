@@ -6,6 +6,10 @@ body {
     background-color: rgba(181, 181, 181, 0.56);
 }
 
+.navbar-inverse {
+    box-shadow: 1px 1px 16px #080808;
+}
+
 .main {
     background-color: rgba(8, 8, 8, 0.22);
     border-radius: 6px;
@@ -28,6 +32,6 @@ body {
     background-color: rgb(38, 38, 38);
 }
 
-.navbar-fixed-bottom {
+navbar-fixed-bottom {
     position: relative;
 }
