@@ -32,6 +32,10 @@ body {
     background-color: rgb(38, 38, 38);
 }
 
+.last {
+    margin-bottom: 50px;
+}
+
 navbar-fixed-bottom {
     position: relative;
 }
